@@ -210,6 +210,15 @@ ul{
 	width: 100%;
 }
 
+#decorativeProject{
+	background-image: url("../IMG/tableauCourse.png");
+	background-attachment: fixed;
+	background-size: 100%;
+	padding-bottom: 20px;
+	overflow: hidden;
+	width: 100%;
+}
+
 #colorPink{
 	color: #8c336a;
 }
