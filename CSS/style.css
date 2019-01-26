@@ -92,6 +92,11 @@ ul{
 	width: 33%;
 }
 
+.sideColumn > div{
+	clear: both;
+	padding-bottom: 10px;
+}
+
 .mainColumn{
 	/*lateral, cubre el otro 66.9% restante*/
 	clear: both;
