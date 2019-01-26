@@ -94,6 +94,7 @@ ul{
 
 .sideColumn > div{
 	clear: both;
+	overflow: hidden;
 	padding-bottom: 10px;
 }
 
