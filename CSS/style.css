@@ -146,6 +146,7 @@ ul{
 }
 
 #withPadding{
+	/*Agrega un padding para separar cuando sea necesario*/
 	padding-right: 2%;
 	width: 31%;
 }
