@@ -111,6 +111,10 @@ ul{
 	float: left;
 }
 
+.mainColumn > div > div{
+	float: left;
+}
+
 .fullWidthColumn{
 	/*Cubre todo el contenedor*/
 	clear: both;
@@ -125,7 +129,6 @@ ul{
 .halfColumn{
 	/*cubre el 50% del contenedor*/
 }
-
 
 /*
 .card{
